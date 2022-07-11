@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: "Ubuntu", sans-serif;
 }
 
 body {
@@ -92,29 +92,29 @@ body {
 }
 
 .card__name {
-    font-size: 18px;
-    font-weight: 500;
-    color: #333;
+  font-size: 18px;
+  font-weight: 500;
+  color: #333;
 }
 
 .card__description {
-    font-size: 14px;
-    color: #707070;
-    text-align: center;
+  font-size: 14px;
+  color: #707070;
+  text-align: center;
 }
 
 .card__button {
-    border: none;
-    font-size: 16px;
-    color: #fff;
-    padding: 8px 16px;
-    background-color: #404f44;
-    border-radius: 6px;
-    margin: 14px;
-    cursor: pointer;
-    transition: all 0.3s ease;
+  border: none;
+  font-size: 16px;
+  color: #fff;
+  padding: 8px 16px;
+  background-color: #404f44;
+  border-radius: 6px;
+  margin: 14px;
+  cursor: pointer;
+  transition: all 0.3s ease;
 }
 
 .hover {
-    background-color: #265;
+  background-color: #265;
 }
